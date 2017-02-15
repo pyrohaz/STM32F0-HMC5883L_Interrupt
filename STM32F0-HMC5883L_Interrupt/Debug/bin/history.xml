@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-HMC5883L_Interrupt.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-HMC5883L_Interrupt -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-HMC5883L_Interrupt/arm-gcc-link.ld -g">
+      <target file="STM32F0-HMC5883L_Interrupt.elf" lastModified="15a3f8ff304">
+         <source file="..\obj\semihosting.o" lastModified="15a3f7c7751"/>
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="15a3f7c7985"/>
+         <source file="..\obj\main.o" lastModified="15a3f8feec9"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="15a3f7c7c8d"/>
+         <source file="..\obj\printf.o" lastModified="15a3f7c7e7d"/>
+         <source file="..\obj\stm32f0xx_i2c.o" lastModified="15a3f7c8070"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="15a3f7c8245"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="15a3f7c8414"/>
+         <source file="..\obj\sh_cmd.o" lastModified="15a3f7c84e3"/>
+         <source file="..\obj\stm32f0xx_exti.o" lastModified="15a3f7c86b9"/>
+         <source file="..\obj\stm32f0xx_syscfg.o" lastModified="15a3f7c8892"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="15a3f7c8a70"/>
+      </target>
+   </processor>
+</history>
